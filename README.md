@@ -9,10 +9,10 @@ estimator with geographical weighting for survival data*.
 
 3. `HT.R` implements the local test.
 
-4. `covtemp.R` implements the global test.
+4. `Test_multi.R` implements the global test.
 
 5. `mod_Hcov.R` implements covariance estimator. 
 
-6. `simulated_survdata.csv` contains a total of 1,000,000 simulated observations
-with three covariates, `Age`, `Sex` and `Black`. The average censoring rate
-is 50.2%.
+6. `experiment for SV model.R` is the example code for estimation in spatially varying case.
+
+7. `power.R` is the example code for test statistics.
