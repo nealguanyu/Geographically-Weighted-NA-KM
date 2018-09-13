@@ -1,4 +1,4 @@
-# Code for Online Updating Proportional Hazards Test
+# Code for Modified Kaplan-Meier estimator and Nelson-Aalen estimator with geographical weighting for survival data
 
 This repository contains `R` code for *Modified Kaplan-Meier estimator and Nelson-Aalen
 estimator with geographical weighting for survival data*.
